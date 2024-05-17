@@ -1,7 +1,7 @@
 {
   "name": "github-webhook-bot",
   "version": "1.0.0",
-  "description": "tata",
+  "description": "toto",
   "main": "index.js",
   "scripts": {
     "prebuild": "rm -rf dist",
